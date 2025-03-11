@@ -1,0 +1,20 @@
+.PinkNum {
+    background-color: pink;
+    font-size: 32px;
+}
+
+#Num2 {
+    color: blue;
+    font-size: 50px;
+    font-weight: 550;
+}
+
+.PinkNum.Three {
+    font-size: 40px;
+}
+
+#Num4 {
+    background-color: lightgreen;
+    font-size: 40px;
+    font-weight: 600;
+}
